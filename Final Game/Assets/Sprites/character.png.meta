@@ -1,0 +1,357 @@
+fileFormatVersion: 2
+guid: a91a56da167880044a9ea2dd7dbe8348
+timeCreated: 1519538630
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: character_armLeft3
+    21300002: character_armLeft1
+    21300004: character_face
+    21300006: character_armRight1
+    21300008: character_armRigh3
+    21300010: character_armLeft2
+    21300012: character_armRight2
+    21300014: character_footLeft1
+    21300016: character_footRight1
+    21300018: character_footRight3
+    21300020: character_body
+    21300022: character_footLeft2
+    21300024: character_footRight2
+    21300026: character_footLeft3
+    21300028: character_footLeft4
+    21300030: character_footRight4
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: character_armLeft3
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1482
+        width: 241
+        height: 233
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5107296}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_armLeft1
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1270
+        width: 297
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_face
+      rect:
+        serializedVersion: 2
+        x: 661.22864
+        y: 926.7672
+        width: 673.2672
+        height: 642.3998
+      alignment: 9
+      pivot: {x: 0.50094724, y: 0.49148956}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_armRight1
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1386
+        width: 298
+        height: 289
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_armRigh3
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 1412
+        width: 236
+        height: 237
+      alignment: 9
+      pivot: {x: 0.51059324, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_armLeft2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1080.8431
+        width: 377.67175
+        height: 347.15686
+      alignment: 9
+      pivot: {x: 0.48189998, y: 0.50454676}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_armRight2
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 969.99994
+        width: 375
+        height: 343.00006
+      alignment: 9
+      pivot: {x: 0.5, y: 0.50000006}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_footLeft1
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 517
+        width: 268
+        height: 458
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_footRight1
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 517
+        width: 266
+        height: 459
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_footRight3
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 357
+        width: 209
+        height: 266
+      alignment: 9
+      pivot: {x: 0.49999997, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_body
+      rect:
+        serializedVersion: 2
+        x: 1123.1147
+        y: 59.381287
+        width: 678.99316
+        height: 810.1247
+      alignment: 9
+      pivot: {x: 0.49836326, y: 0.50685865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_footLeft2
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 330
+        width: 223
+        height: 176.00003
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999994}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_footRight2
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 310
+        width: 223
+        height: 176
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_footLeft3
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 18
+        width: 210
+        height: 267
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_footLeft4
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 0
+        width: 252
+        height: 308
+      alignment: 9
+      pivot: {x: 0.4980159, y: 0.49188313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: character_footRight4
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 0
+        width: 253
+        height: 308
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49188313}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99584665901724
+  assetBundleName: 
+  assetBundleVariant: 

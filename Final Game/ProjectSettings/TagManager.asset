@@ -41,3 +41,15 @@ TagManager:
   - name: Default
     uniqueID: 0
     locked: 0
+  - name: 'anima2D: 1'
+    uniqueID: 4170254959
+    locked: 0
+  - name: 'anima2D: 2'
+    uniqueID: 2243905815
+    locked: 0
+  - name: 'anima2D: 3'
+    uniqueID: 725326563
+    locked: 0
+  - name: 'anima2D: 4'
+    uniqueID: 3243597509
+    locked: 0
