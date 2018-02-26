@@ -53,3 +53,6 @@ TagManager:
   - name: 'anima2D: 4'
     uniqueID: 3243597509
     locked: 0
+  - name: Player
+    uniqueID: 1816412617
+    locked: 0
