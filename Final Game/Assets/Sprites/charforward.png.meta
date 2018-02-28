@@ -1,0 +1,297 @@
+fileFormatVersion: 2
+guid: ba03111a207672243bfc2b44b91a744e
+timeCreated: 1519655492
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: charforward_head
+    21300002: charforward_torso
+    21300004: charforward_2
+    21300006: charforward_leftleg
+    21300008: charforward_rightleg
+    21300010: charforward_5
+    21300012: charforward_leftarm
+    21300014: charforward_rightarm
+    21300016: charforward_leftshoe
+    21300018: charforward_rightshoe
+    21300020: charforward_lefthfist
+    21300022: charforward_rightfist
+  externalObjects: {}
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: -1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 600
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: charforward_head
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 612.99994
+        width: 534
+        height: 590.00006
+      alignment: 9
+      pivot: {x: 0.49531835, y: 0.50423735}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_torso
+      rect:
+        serializedVersion: 2
+        x: 900.0035
+        y: 662.27985
+        width: 297.74738
+        height: 519.72015
+      alignment: 9
+      pivot: {x: 0.5020918, y: 0.5093513}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_2
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 497.00003
+        width: 14
+        height: 18.99997
+      alignment: 9
+      pivot: {x: 0.5, y: 0.49999923}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_leftleg
+      rect:
+        serializedVersion: 2
+        x: 37.271286
+        y: 223.39946
+        width: 169.12341
+        height: 345.34857
+      alignment: 9
+      pivot: {x: 0.48620528, y: 0.49544302}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_rightleg
+      rect:
+        serializedVersion: 2
+        x: 239.59805
+        y: 220.71974
+        width: 165.94397
+        height: 350.3205
+      alignment: 9
+      pivot: {x: 0.48752567, y: 0.49320626}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_5
+      rect:
+        serializedVersion: 2
+        x: 390.00003
+        y: 496
+        width: 13.9999695
+        height: 19
+      alignment: 9
+      pivot: {x: 0.4999989, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_leftarm
+      rect:
+        serializedVersion: 2
+        x: 524.57153
+        y: 233.65134
+        width: 231.63794
+        height: 397.34818
+      alignment: 9
+      pivot: {x: 0.50478977, y: 0.50295603}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_rightarm
+      rect:
+        serializedVersion: 2
+        x: 779.6476
+        y: 226.00069
+        width: 235.13312
+        height: 408.71295
+      alignment: 9
+      pivot: {x: 0.49270993, y: 0.5027962}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_leftshoe
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 15
+        width: 142.99998
+        height: 78
+      alignment: 9
+      pivot: {x: 0.50000006, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_rightshoe
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 15
+        width: 142.99997
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_lefthfist
+      rect:
+        serializedVersion: 2
+        x: 482.99997
+        y: 46.000004
+        width: 132.00003
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5000001, y: 0.49999997}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: charforward_rightfist
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 51
+        width: 133
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    outline: []
+    physicsShape: []
+  spritePackingTag: 
+  userData: 99601249545614
+  assetBundleName: 
+  assetBundleVariant: 
